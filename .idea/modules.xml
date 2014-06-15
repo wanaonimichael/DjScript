@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DjScript.iml" filepath="$PROJECT_DIR$/.idea/DjScript.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/WANAONI_FOUNDATION/.idea/WANAONI_FOUNDATION.iml" filepath="$USER_HOME$/PycharmProjects/WANAONI_FOUNDATION/.idea/WANAONI_FOUNDATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wanaoni-foundation/.idea/wanaoni-foundation.iml" filepath="$PROJECT_DIR$/../wanaoni-foundation/.idea/wanaoni-foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wanaoni-foundationonline/.idea/wanaoni-foundationonline.iml" filepath="$PROJECT_DIR$/../wanaoni-foundationonline/.idea/wanaoni-foundationonline.iml" />
+    </modules>
+  </component>
+</project>
